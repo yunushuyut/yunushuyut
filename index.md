@@ -24,7 +24,7 @@ Experienced Full-Stack Software Engineer with 6+ years of expertise in developin
 *   **Programming Languages:** TypeScript, JavaScript, Java, C++, Python
 *   **Frontend Frameworks:** Angular, React, Next.js, React Native
 *   **Backend Technologies:** Node.js, Express.js, Fastify, Nest.js, Spring Framework
-*   **Databases:** MongoDB, PostgreSQL, MySQL, Firebase Firestore
+*   **Databases & Storage:** MongoDB,Redis, PostgreSQL, MySQL, Firebase Firestore, SQL Lite
 *   **Cloud Platforms:** Google Cloud Platform (GCS), Amazon Web Services (AWS), Vercel
 *   **Development Tools:** Docker, PM2, Jest, Git, Cursor IDE
 *   **AI/ML Integration:** Gemini 2.5 Pro API, Claude, GPT integration, AI-powered automation
